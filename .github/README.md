@@ -1,5 +1,5 @@
 # GoldHEN Plugins
-Plugins allows you to customize your games like never before!
+Plugins allows you to customize your games like never before!*
 
 [![Build modules](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/actions/workflows/CI.yml/badge.svg?branch=main&event=push)](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/actions/workflows/CI.yml)
 
